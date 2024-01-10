@@ -261,15 +261,15 @@ MonoBehaviour:
   OverheatGradient:
     serializedVersion: 2
     key0: {r: 0, g: 1.6477393, b: 5.2164745, a: 1}
-    key1: {r: 5.2164755, g: 1.5567491, b: 0, a: 1}
+    key1: {r: 0, g: 1.6477393, b: 5.2164745, a: 1}
     key2: {r: 8, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 28913
-    ctime1: 36430
+    ctime0: 0
+    ctime1: 65535
     ctime2: 65535
     ctime3: 0
     ctime4: 0
@@ -1421,6 +1421,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6867164318176036221}
     m_Modifications:
+    - target: {fileID: 3535881425241086519, guid: 21c8bd050f24da54285f8a3987ee6253,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5338991494728519494, guid: 21c8bd050f24da54285f8a3987ee6253,
         type: 3}
       propertyPath: m_RootOrder
