@@ -193,8 +193,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288082943
-  m_fontColor: {r: 1, g: 0.95294124, b: 0.5882353, a: 1}
+    rgba: 4278238975
+  m_fontColor: {r: 1, g: 0.74509805, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -399,7 +399,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.26415092, g: 0.19227122, b: 0.17568529, a: 1}
+    m_NormalColor: {r: 0, g: 0.6834543, b: 1, a: 1}
     m_HighlightedColor: {r: 0.28235295, g: 0.7254902, b: 0.9529412, a: 1}
     m_PressedColor: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 1}
     m_SelectedColor: {r: 0.28235295, g: 0.7254902, b: 0.9529412, a: 1}
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 91c91768bbde1d24da879a8907f0edd5, type: 3}
+  m_Texture: {fileID: 2800000, guid: 114ce467ef794c34c93f1351461af6eb, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Galaxy Quest
+  m_text: Sonic Blast Attack!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d393f12bd75574ef991a7a2c74b29c69, type: 2}
   m_sharedMaterial: {fileID: 21623678745554260, guid: d393f12bd75574ef991a7a2c74b29c69,
@@ -1018,8 +1018,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288082943
-  m_fontColor: {r: 1, g: 0.95466775, b: 0.5896226, a: 1}
+    rgba: 4278238975
+  m_fontColor: {r: 1, g: 0.7466958, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1298,7 +1298,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.25882354, g: 0.19607845, b: 0.18039216, a: 1}
+    m_NormalColor: {r: 0, g: 0.5422628, b: 1, a: 1}
     m_HighlightedColor: {r: 0.28235295, g: 0.7254902, b: 0.9529412, a: 1}
     m_PressedColor: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 1}
     m_SelectedColor: {r: 0.28235295, g: 0.7254902, b: 0.9529412, a: 1}
@@ -1454,8 +1454,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288082943
-  m_fontColor: {r: 1, g: 0.95294124, b: 0.5882353, a: 1}
+    rgba: 4278238975
+  m_fontColor: {r: 1, g: 0.74509805, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
